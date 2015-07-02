@@ -10,7 +10,7 @@ int main(void)
 		printf("Please enter a ASCll Code: ");
 		scanf("%d", &ch);
 
-		printf(The word for %d is %c.\n\n", ch, ch)
+		printf("The word for %d is %c.\n\n", ch, ch);
 	}
 	return 0;
 }
